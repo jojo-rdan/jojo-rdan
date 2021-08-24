@@ -5,7 +5,7 @@
 👨🏻‍💻 Some things about me:
 - 🌱 I’m currently learning React, Node.js, Express, JavaScript, HTML/CSS, and more! 
 - ⚡ Fun fact: When I was 18 I broke my tooth eating a Dorito 😂
--
+
 💡 I´m not a genius(yet 👀) but:
 - 💬 Ask me about whatever you want! As far as I know I am more than happy to help you!
 
