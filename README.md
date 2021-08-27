@@ -9,7 +9,9 @@
 💡 I´m not a genius(yet 👀) but:
 - 💬 Ask me about whatever you want! As far as I know I am more than happy to help you!
 
-- 📫 Do you want us to work and do great things together? Reach me: jordan.olaves91@gmail.com
+📫 Do you want us to work and do great things together?
+- Reach me: jordan.olaves91@gmail.com
+- My LinkedIn: https://www.linkedin.com/in/jojordan1991/
 
 ✨ GitHub Stats
 <br>
