@@ -1,6 +1,6 @@
 ### Hi there 👋 I´m Jordan!
 
-👨🏻‍💻 Full Stack Web Developer!
+👨🏻‍💻 Full Stack Web Developer and Test Automation Engineer!
 
 👨🏻‍💻 Some things about me:
 - 🌱 I’m currently learning React, React-Native, Node.js, Express, MongoDB, JavaScript, HTML/CSS, Salesforce, and more! 
