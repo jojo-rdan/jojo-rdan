@@ -3,7 +3,7 @@
 👨🏻‍💻 Full Stack Web Developer, Test Automation Engineer and Data Engineer!
 
 👨🏻‍💻 Some things about me:
-- 🌱 I’m currently learning React, React-Native, Node.js, Express, MongoDB, JavaScript, HTML/CSS, Salesforce, and more! 
+- 🌱 I’m currently learning Data engineering testing and more! 
 - ⚡ Fun fact: When I was 18 I broke my tooth eating a Dorito 😂
 
 💡 I´m not a genius(yet 👀) but:
