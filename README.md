@@ -13,13 +13,6 @@
 - Reach me: jordan.olaves91@gmail.com
 - My LinkedIn: https://www.linkedin.com/in/jojordan1991/
 
-✨ GitHub Stats
-<br>
-<br>
-<a href="https://github.com/jojo-rdan">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jojo-rdan&show_icons=true&theme=merko&count_private=true" alt="Jordan's github stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojo-rdan&theme=merko&layout=compact" alt="Jordan's github top languages" />
-</a>
 # Project - Videogames SPA (Single Page Application):
 <p align="center">
 <a href="https://github.com/jojo-rdan/PIVG">
